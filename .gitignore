@@ -1,0 +1,9 @@
+.idea
+*.iml
+reports
+screenshots
+target
+*.log
+*.gz
+logs/
+out
